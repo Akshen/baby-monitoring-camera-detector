@@ -1,2 +1,2 @@
-# Human-detection-on-web-security-baby-camera-for-monitoring
-Basic Idea is to make use of object detection technology and detect unwanted activity, if  observed the user would be notified or alarmed about it's occurring 
+# baby-monitoring-detector
+Basically the idea is to detect where the baby is safe in the crib or outside, if outside, then an alarm should be buzzed!
